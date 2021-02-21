@@ -1,0 +1,11 @@
+.idea
+
+when-loops-and-ranges/.idea/
+when-loops-and-ranges/.gradle/
+when-loops-and-ranges/build/
+when-loops-and-ranges/gradle/
+when-loops-and-ranges/gradlew
+when-loops-and-ranges/gradlew.bat
+when-loops-and-ranges/settings.gradle.kts
+when-loops-and-ranges/gradle.properties
+when-loops-and-ranges/build.gradle.kts
